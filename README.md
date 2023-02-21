@@ -1,7 +1,7 @@
 
 <h2>  <img  src="https://media.giphy.com/media/3o6Zt5eJWfaJEUKYbm/giphy.gif" width="50"> Hi, I'm Andrea Garcia! <img src="https://media.giphy.com/media/3o6Zt5eJWfaJEUKYbm/giphy.gif" width="50">
 </h2>
-<img align='right' src="https://raw.githubusercontent.com/gist/moonheekim0118/bcbbb9c2fd8c477027617a67e0ec812f/raw/2c15614ff01ff7518bcd6da526939644c8324e11/octocat.gif" width="230">
+<img align='right' 
 <p><em>IOS Developer<img src="https://cdn-images-1.medium.com/fit/t/1600/480/1*vMuzAesLiPp2TerWlaTfYw.png" width="90"> 
 </em></p>
 
