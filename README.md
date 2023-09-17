@@ -23,11 +23,11 @@
 
   var DataBases = ["SQL", "Firebase"]
 
-  var IAmLearning = ["CiberSecurity", "ReactNative"]
+  var IAmLearning = ["CyberSecurity", "ReactNative"]
 18
   var languages = ["English", "Spanish", "French"]
 19
-  var IWouldLikeToLearn = ["Flutter", "Kotlin"]                  
+  var IWouldLikeToLearn = ["Flutter", "Kotlin", "Viper", "ArtificialIntelligence"]                  
 20
      }
  ```    
