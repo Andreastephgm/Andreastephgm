@@ -23,7 +23,7 @@
 
   var DataBases = ["SQL", "Firebase"]
 
-  var IAmLearning = ["CyberSecurity", "ReactNative"]
+  var IAmLearning = ["ReactNative"]
 18
   var languages = ["English", "Spanish", "French"]
 19
