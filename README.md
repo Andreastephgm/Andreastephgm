@@ -2,7 +2,7 @@
 <h2>  <img  src="https://media.giphy.com/media/3o6Zt5eJWfaJEUKYbm/giphy.gif" width="50"> Hi, I'm Andrea Garcia! <img src="https://media.giphy.com/media/3o6Zt5eJWfaJEUKYbm/giphy.gif" width="50">
 </h2>
 <img align='right' 
-<p><em>Mobile Developer<img src="https://cdn-images-1.medium.com/fit/t/1600/480/1*vMuzAesLiPp2TerWlaTfYw.png" width="90"> 
+<p><em>Software Developer<img src="https://cdn-images-1.medium.com/fit/t/1600/480/1*vMuzAesLiPp2TerWlaTfYw.png" width="90"> 
 </em></p>
 
 [![Linkedin: Andreastephgm](https://img.shields.io/badge/-Andreastephgm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/andrea-stefanny-garcia-mejia-8b2074123/)[![](https://img.shields.io/badge/Gmail-andreagarciamejia46@gmail.com-red)](mailto:andreagarciamejia46@gmail.com)
