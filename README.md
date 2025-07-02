@@ -7,9 +7,15 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/andreastephgm/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://github.com/Andreastephgm" title="GitHub Profile"><img width="22" src="images/github.svg"> GitHub</a></code>
-  <code><a href="https://andreastephgm.github.io/" title="Portfolio"><img width="22" src="images/globe.svg"> Portfolio</a></code>
+  <code><a href="https://www.linkedin.com/in/andreastephgm/" title="LinkedIn Profile">
+    <img width="22" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /> LinkedIn
+  </a></code>
+  <code><a href="https://github.com/Andreastephgm" title="GitHub Profile">
+    <img width="22" src="https://skillicons.dev/icons?i=github" alt="GitHub" /> GitHub
+  </a></code>
+  <code><a href="https://andreastephgm.github.io/" title="Portfolio">
+    <img width="22" src="https://skillicons.dev/icons?i=chrome" alt="Portfolio" /> Portfolio
+  </a></code>
 </h5>
 
 <br>
@@ -24,17 +30,17 @@
 ## 🔧 Languages, Frameworks & Tools
 
 <p align="center">
-  <code><img title="Swift" height="25" src="images/swift.svg"></code>
-  <code><img title="React Native" height="25" src="images/react-original.svg"></code>
-  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="Postman" height="25" src="images/postman.svg"></code>
-  <code><img title="Docker" height="25" src="images/docker.svg"></code>
-  <code><img title="VS Code" height="25" src="images/vscode.png"></code>
+  <img title="Swift" height="30" src="https://skillicons.dev/icons?i=swift" />
+  <img title="React Native" height="30" src="https://skillicons.dev/icons?i=react" />
+  <img title="JavaScript" height="30" src="https://skillicons.dev/icons?i=js" />
+  <img title="HTML5" height="30" src="https://skillicons.dev/icons?i=html" />
+  <img title="CSS3" height="30" src="https://skillicons.dev/icons?i=css" />
+  <img title="Java" height="30" src="https://skillicons.dev/icons?i=java" />
+  <img title="Git" height="30" src="https://skillicons.dev/icons?i=git" />
+  <img title="MySQL" height="30" src="https://skillicons.dev/icons?i=mysql" />
+  <img title="Postman" height="30" src="https://skillicons.dev/icons?i=postman" />
+  <img title="Docker" height="30" src="https://skillicons.dev/icons?i=docker" />
+  <img title="VS Code" height="30" src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
 ---
@@ -54,33 +60,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andreastephgm&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
----
-
-## 📌 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Andreastephgm/gameStream">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Andreastephgm&repo=gameStream&theme=tokyonight&border_radius=10">
-  </a>
-  <a href="https://github.com/Andreastephgm/Animeflix">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Andreastephgm&repo=Animeflix&theme=tokyonight&border_radius=10">
-  </a>
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <a href="https://github.com/Andreastephgm/Pokemon-">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Andreastephgm&repo=Pokemon-&theme=tokyonight&border_radius=10">
-  </a>
-  <a href="https://github.com/Andreastephgm/temperature-converter">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Andreastephgm&repo=temperature-converter&theme=tokyonight&border_radius=10">
-  </a>
-</div>
-
-<br/>
-
-<h4 align="center">
-  <a href="https://github.com/Andreastephgm?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
 
