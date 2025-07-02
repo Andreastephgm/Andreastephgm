@@ -1,63 +1,71 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Andreastephgm.Andreastephgm">
+<p align="center">
+  <img src="https://images.steamusercontent.com/ugc/876378397869131047/C55C893DB8AB389A0165B6693AAFA661838E86FE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%" height=200px style="border-radius: 10px;" />
+</p>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I'm+Andrea+Garcia.;iOS+and+React+Native+Developer&center=true&size=30&color=7FFFD4">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&color=82AFC1&width=1000&lines=Hi+There!+%F0%9F%91%8B;I'm+Andrea+Garcia;Mobile+Developer+(iOS+%26+React+Native);Backend+Developer+with+Java+and+Spring+Boot;Let's+build+something+awesome+together!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-7aa2f7?style=flat-square" />
+</p>
+
+<h2 align="center">🍵 About Me</h2>
+
+- 🧋 I enjoy building mobile and backend applications  
+- 📱 iOS (SwiftUI) and React Native developer  
+- ☕ Tea over coffee — always  
+- 🌱 Currently improving my backend skills with Java and Spring Boot  
+- 🛠️ Practicing clean architecture, testing and agile methodologies  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-ff4499?style=flat-square" />
+</p>
+
+<h2 align="center">🔗 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/andreastephgm/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Andrea_Garcia-7DCFFF?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-</h1>
-
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/andreastephgm/" title="LinkedIn Profile">
-    <img width="22" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /> LinkedIn
-  </a></code>
-  <code><a href="https://github.com/Andreastephgm" title="GitHub Profile">
-    <img width="22" src="https://skillicons.dev/icons?i=github" alt="GitHub" /> GitHub
-  </a></code>
-  <code><a href="https://andreastephgm.github.io/" title="Portfolio">
-    <img width="22" src="https://skillicons.dev/icons?i=chrome" alt="Portfolio" /> Portfolio
-  </a></code>
-</h5>
-
-<br>
-
+  <a href="https://andreastephgm.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-82AFC1?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+</p>
 <p align="center">
-  👋 Hi, I'm <strong>Andrea Garcia</strong> from Colombia 🇨🇴<br>
-  I’m a software developer specializing in <strong>backend development with Java (Spring Boot)</strong>, as well as <strong>hybrid and native mobile applications</strong> using Swift and React Native.
+  <img src="https://img.shields.io/badge/-════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-7DCFFF?style=flat-square" />
 </p>
 
----
-
-## 🔧 Languages, Frameworks & Tools
+<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img title="Swift" height="30" src="https://skillicons.dev/icons?i=swift" />
-  <img title="React Native" height="30" src="https://skillicons.dev/icons?i=react" />
-  <img title="JavaScript" height="30" src="https://skillicons.dev/icons?i=js" />
-  <img title="HTML5" height="30" src="https://skillicons.dev/icons?i=html" />
-  <img title="CSS3" height="30" src="https://skillicons.dev/icons?i=css" />
-  <img title="Java" height="30" src="https://skillicons.dev/icons?i=java" />
-  <img title="Git" height="30" src="https://skillicons.dev/icons?i=git" />
-  <img title="MySQL" height="30" src="https://skillicons.dev/icons?i=mysql" />
-  <img title="Postman" height="30" src="https://skillicons.dev/icons?i=postman" />
-  <img title="Docker" height="30" src="https://skillicons.dev/icons?i=docker" />
-  <img title="VS Code" height="30" src="https://skillicons.dev/icons?i=vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Andreastephgm&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=Andreastephgm&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/SwiftUI-%23FA7343?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-%2320232a?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%2300f?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreastephgm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://img.shields.io/badge/-════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-82AFC1?style=flat-square" />
+</p>
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andreastephgm&show_icons=true&theme=tokyonight&hide=prs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andreastephgm&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Andreastephgm&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-9D7CD8?style=flat-square" />
+</p>
+
+
+
 
 
